@@ -32,7 +32,7 @@
 }
 
 .introduction {
-  width: 40mvw;
+  width: 40vw;
   padding: 30px;
   border-left: 3px solid white;
 }
@@ -48,11 +48,13 @@
   }
 
   .introduction {
-    width: 90vw;
+     min-width: 80vw;
     border: none;
     text-align: center;
   }
-
+  .introduction h1{
+    font-size: 40px; /*to prevent overflow/
+  }
   .head-shot {
     margin: 0;
     padding: 40px 0;
