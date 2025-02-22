@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+body {
+    margin: 0;
+    padding: 0;
+    font-family: "Roboto Mono", monospace ,sans-serif,Arial;
+}
+
+.main {
+    width: 595px;
+    /* height: 842px; */
+    padding: 50px;
+    margin: 50px;
+    border: 3px solid black;
+}
+
+.main h2 {
+    color: rgb(66, 207, 66);
+    margin: 30px 0 10px 0;
+}
+
+.main h3 {
+    color: rgb(31, 64, 250);
+    font-size: 23px;
+    margin: 10px 0 0 0;
+}
+
+.main p {
+    margin: 0;
+}
+
+.name hr {
+    border: 2px solid black;
+    border-radius: 4px;
+}
+
+.name h1 {
+    font-size: 30px;
+}
+
+.name h2{
+    margin: 30px 0;
+}
+
+.experiences ul{
+    margin: 0;
+    padding: 0 0 0 15px;
+}
+
+.experiences .list_p1 {
+    margin: 3px 0 5px 0;
+}
+
+.experiences .list_p2 {
+    margin: 5px 0 5px 0;
+}
